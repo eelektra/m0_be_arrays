@@ -18,5 +18,8 @@ p height_in
 #elements in the array
 black_dog.length
 p black_dog.length
+#the next line will print the 1st element
+#in dogs
+p dogs[0]
 
 

@@ -21,5 +21,7 @@ p black_dog.length
 #the next line will print the 1st element
 #in dogs
 p dogs[0]
-
+#the next line will determine if the array
+#is empty and print the result
+p dogs.empty?
 
